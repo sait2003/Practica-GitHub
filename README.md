@@ -8,3 +8,5 @@ Estoy aprendiendo a utilizar Git, GitHub y Visual Studio Code.ñ
 - Git
 - GitHub
 - Visual Studio Code
+
+Hoy aprendí qué es un commit.
