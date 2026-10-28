@@ -9,4 +9,6 @@ Estoy aprendiendo a utilizar Git, GitHub y Visual Studio Code.ñ
 - GitHub
 - Visual Studio Code
 
-Hoy aprendí qué es un commit.
+Hoy aprendí qué es un commit. 
+
+y me siento muy feliz de mi avance , lento pero seguro
